@@ -1,0 +1,166 @@
+.main{
+    background: linear-gradient(to top left, rgb(207, 235, 239), rgb(182, 207, 212));
+}
+* {
+    margin: 0;
+}
+
+.naz {
+    padding-top: 35px;
+    margin-left: 230px;
+    display: inline-block;
+    font-size: 45px;
+    color: rgb(58, 7, 7);
+}
+.obz {
+    padding-top: 25px;
+    display: inline-block;
+    font-size: 25px;
+    color: rgb(5, 46, 77);
+    width: 1200px;
+    margin-left: 35px;
+
+}
+.gradient {
+    margin: 0px 0px;
+    height: 2000px;
+background: radial-gradient(circle farthest-corner at 100px 50px, #fefcfb, #6d557a);
+}
+ 
+
+
+
+.fotki{
+    margin-left: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.pic1{
+    margin-top: 12px;
+    width: 750px;
+    border-style: solid;
+    border-width: 1.5px;
+    
+}
+/* панель */
+.panel{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+   
+    height: 75px;
+    
+    background: linear-gradient(to top left, rgb(235, 122, 197), rgb(240, 215, 219));
+    
+}
+.logo{
+  margin-right: 50px;
+
+}
+.rek{ 
+    margin-left: 50px;
+    display: inline;  
+    ;    
+   
+}
+.viz{
+    font-style:normal   ;
+    margin-left: 100px;
+    color: black;
+    text-decoration: none;
+    font-weight: 750px;
+    font-size: 30px;
+    margin-right: 100px;
+}
+.obz_2{
+    margin: 40px;
+    font-size: 23px;
+}
+
+/* SHOOP */
+.SHOPMAIN{
+    
+    height: 2200px;
+    background: linear-gradient(to right, #FFDDD6 20%, #FFF9ED 20%, #FFF9ED 80%, #DBDBDB 80%);
+}
+.VETRINA{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px; 
+}
+.pi{
+    
+    font-size: 30px;
+    margin: 100px;
+}
+.VETRINA2{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px; 
+}
+.VETRINA3{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px;
+
+}
+.VETRINA4{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px;
+
+}
+.VETRINA5{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px;
+
+}
+.VETRINA6{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px;
+
+}
+.VETRINA7{
+    margin-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    margin-right: 320px;  
+    padding-top: 20px;
+
+}
+
+.END{
+    display: flex;
+}
+
+/* О нас */
+.eend{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(69, 61, 61);
+    font-size: 30px;
+}
